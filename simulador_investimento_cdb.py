@@ -1,4 +1,6 @@
-#Simulador CDB 🪙--
+#Simulador CDB 💸--
+print("--Seja bem vindo ao seu simulador pessoal de investimentos😁--")
+print("--O percentual de juros é calculado em cima da cota do CDB!--")
 aporte = float(input("Quanto você irá investir por mês?"))
 meses = int(input("Quantos meses você irá investir?"))
 juros = 1.24/100
